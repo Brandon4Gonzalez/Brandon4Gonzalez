@@ -19,11 +19,11 @@
 
 Soy estudiante de **Ingeniería de Sistemas** y **Desarrollador Multiplataforma** especializado en el ecosistema **Flutter**. Mi enfoque se centra en la construcción de aplicaciones móviles y de escritorio robustas, escalables y con una experiencia de usuario fluida, partiendo de una sola base de código.
 
-**Lo que aporto a tu equipo:**
+**Lo que aporto:**
 
-* 🤖 **Uso Responsable de la IA:** No integro Inteligencia Artificial únicamente por seguir tendencias del mercado. Soy plenamente consciente del costo computacional, energético y económico que implica su implementación, por lo que la incorporo solo cuando aporta valor tangible y resuelve un problema concreto del producto.
-* 📱 **Desarrollo Multiplataforma de Alto Rendimiento:** Diseño y desarrollo soluciones nativas para múltiples plataformas con Flutter, optimizando los tiempos de entrega sin comprometer la calidad ni la experiencia del usuario final.
-* 🧠 **Visión de Ingeniería:** Como estudiante de Ingeniería de Sistemas, fundamento mis decisiones técnicas en el análisis del problema, la arquitectura y el ciclo de vida del software, no únicamente en la moda tecnológica del momento.
+* 🤖 **Uso Responsable de la IA:** No integro Inteligencia Artificial únicamente por seguir tendencias del mercado. Soy plenamente consciente del costo computacional, energético y económico que implica su implementación, por lo que la incorporo solo cuando es necesaria y resuelve un problema concreto.
+* 📱 **Desarrollo Multiplataforma de Alto Rendimiento:** Diseño y desarrollo soluciones nativas para múltiples plataformas con Flutter, creo apps sin comprometer la calidad ni la experiencia del usuario final.
+* 🧠 **Visión de Ingeniería:** Como estudiante de Ingeniería de Sistemas, fundamento mis decisiones técnicas en el análisis del problema, la arquitectura y el ciclo de vida del software, no únicamente en la moda tecnológica del momento como lo vemos actualmente con el vibe coding irresponsable.
 
 ---
 
